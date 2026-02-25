@@ -1,6 +1,6 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
-### Name : PRIYESH S
-### Reg No : 212224040256
+### Name : SAIPRASATH P
+### Reg No : 212224230238
 ## Aim: 
 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
